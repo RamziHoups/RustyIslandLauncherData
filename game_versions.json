@@ -3,27 +3,27 @@
 	{
 		"version": "0.0.3",
 		"title": "Обновление 0.0.3",
-		"description": "Исправлены баги с инвентарём, улучшен AI врагов, добавлены новые звуки в шахте.",
+		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
 		"published_at": "2026-04-08",
-		"download_url_windows": "https://example.com/RustyIsland_0.1.3.zip",
+		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/test_0.01.zip",
 		"image_url": "https://ramzihoups.github.io/RustyIslandLauncherData/images/test1.png",
 		"image_type": "png"
 	},
 	{
 		"version": "0.0.2",
 		"title": "Обновление 0.0.2",
-		"description": "Исправлены баги с инвентарём, улучшен AI врагов, добавлены новые звуки в шахте.",
-		"published_at": "2026-04-08",
-		"download_url_windows": "https://example.com/RustyIsland_0.1.3.zip",
+		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
+		"published_at": "2026-04-09",
+		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/test_0.02.zip",
 		"image_url": "https://ramzihoups.github.io/RustyIslandLauncherData/images/test1.png",
 		"image_type": "png"
 	},
 	{
 		"version": "0.0.1",
 		"title": "Обновление 0.0.1",
-		"description": "Исправлены баги с инвентарём, улучшен AI врагов, добавлены новые звуки в шахте.",
-		"published_at": "2026-04-08",
-		"download_url_windows": "https://example.com/RustyIsland_0.1.3.zip",
+		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
+		"published_at": "2026-04-010",
+		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/test_0.03.zip",
 		"image_url": "https://ramzihoups.github.io/RustyIslandLauncherData/images/test1.png",
 		"image_type": "png"
 	}
