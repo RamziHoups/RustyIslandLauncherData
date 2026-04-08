@@ -2,7 +2,7 @@
   "versions": [
 	{
 		"version": "0.0.3",
-		"title": "Обновление 0.0.3",
+		"title": "Update 0.0.3",
 		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
 		"published_at": "2026-04-08",
 		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/test_0.01.zip",
@@ -11,7 +11,7 @@
 	},
 	{
 		"version": "0.0.2",
-		"title": "Обновление 0.0.2",
+		"title": "Update 0.0.2",
 		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
 		"published_at": "2026-04-09",
 		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/test_0.02.zip",
@@ -20,7 +20,7 @@
 	},
 	{
 		"version": "0.0.1",
-		"title": "Обновление 0.0.1",
+		"title": "Update 0.0.1",
 		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
 		"published_at": "2026-04-010",
 		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/test_0.03.zip",
