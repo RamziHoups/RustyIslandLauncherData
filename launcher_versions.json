@@ -5,14 +5,14 @@
 	  "title": "Launcher 0.0.2",
 	  "description": "Тестовое обновление лаунчера.",
 	  "published_at": "2026-04-08",
-	  "download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/launcher_versions/test1.zip"
+	  "download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/launcher_versions/test2.zip"
 	},
 	{
 	  "version": "0.0.1",
 	  "title": "Launcher 0.0.1",
 	  "description": "Первая тестовая версия лаунчера.",
 	  "published_at": "2026-04-08",
-	  "download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/launcher_versions/test2.zip"
+	  "download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/launcher_versions/test1.zip"
 	}
   ]
 }
