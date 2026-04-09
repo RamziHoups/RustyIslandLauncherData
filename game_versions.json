@@ -1,8 +1,8 @@
 {
   "versions": [
 	{
-		"version": "0.0.5",
-		"title": "Update 0.0.4",
+		"version": "0.0.6",
+		"title": "Update 0.0.6",
 		"description": "What's new: \n\n- Test 1\n- Test 2\n- Test 3",
 		"published_at": "2026-04-08",
 		"download_url_windows": "https://ramzihoups.github.io/RustyIslandLauncherData/releases/RustyIsland4.zip",
